@@ -218,6 +218,8 @@ public class Main extends JFrame {
 		}
 		}catch (IOException | ClassNotFoundException e){
 			e.printStackTrace();
+
+
 		}
 	}
 	private void addRoom(){
